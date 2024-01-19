@@ -1,6 +1,5 @@
 package me.mocadev.springsecurity.config;
 
-import static org.springframework.security.config.Customizer.*;
 import org.springframework.boot.autoconfigure.security.SecurityProperties;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
