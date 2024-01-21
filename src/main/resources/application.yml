@@ -1,9 +1,4 @@
 spring:
-    security:
-        user:
-            name: mocadev
-            password: 1234
-
     datasource:
         url: jdbc:mysql://127.0.0.1:3306/security?characterEncoding=UTF-8&serverTimezone=Asia/Seoul
         username: root
